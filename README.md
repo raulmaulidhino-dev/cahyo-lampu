@@ -17,6 +17,26 @@
 - Liquid Crystal I2C (Optional)
 - Cardboard (for the miniature house)
 
+## Code Installation Setup
+
+### Prerequisites
+- The physical prototype of the project
+- [Arduino IDE](https://www.arduino.cc/en/software/) installed in latest version
+- [Git](https://git-scm.com/downloads) installed (if you want to clone/fork this project and contribute)
+
+### Libraries Required
+- Wire (pre-installed with Arduino IDE)
+- LiquidCrystal_I2C (can be installed via Arduino Library Manager, optional)
+
+To install the `LiquidCrystal_I2C` library:
+1. Open Arduino IDE
+2. Go to `Sketch` > `Include Library` > `Manage Libraries...`
+3. Search for `LiquidCrystal_I2C` and install the latest version.
+
+
+## Project Demo
+If you are just curious and want to see the online demo, you can see it in this [Wokwi Projects](https://wokwi.com/projects/415244886912403457). Happy experimenting! ✨
+
 ## How It Works
 The LDR sensor reads the light intensity and adjusts the LED output:
 - When it's dark (high LDR value), the LED lights up brightly
