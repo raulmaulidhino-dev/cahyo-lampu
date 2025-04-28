@@ -35,7 +35,10 @@ To install the `LiquidCrystal_I2C` library:
 
 
 ## Project Demo
-If you are just curious and want to see the online demo, you can see it in this [Wokwi Projects](https://wokwi.com/projects/415244886912403457). Happy experimenting! ✨
+### Virtual Prototype
+![Cahyo Lampu Virtual Prototype](./docs/assets/img/CahyoLampu_Prototype.png)
+
+If you are just curious and want to try and see the online demo, you can see it in this [Wokwi Projects](https://wokwi.com/projects/415244886912403457). Happy experimenting! ✨
 
 ## How It Works
 The LDR sensor reads the light intensity and adjusts the LED output:
@@ -62,6 +65,16 @@ void loop() {
 
 
 To see a more complete and interactive project demo, visit this project's online prototype on [Wokwi](https://wokwi.com/projects/415244886912403457).
+
+
+--
+
+
+## Project Pics
+<div align="center">
+  <img src="./docs/assets/img/CahyoLampu_Pict1.webp" alt="CahyoLampu Picture 1" height="480" />
+  <img src="./docs/assets/img/CahyoLampu_Pict2.webp" alt="CahyoLampu Picture 2" height="480" />
+</div>
 
 
 --
